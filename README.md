@@ -18,7 +18,7 @@ Execution:
   
   ssim.py
   1. Select the frame which is to be compared and set the path to those files in the code, while keeping the img0045.jpg (base      image) as constant.
-  2  run the command python2 ssim.py
+  2.  Run the command python2 ssim.py
 
   BgdSubtract.py
 
