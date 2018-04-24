@@ -3,13 +3,13 @@
 
 Dependencies: 
 
-  1. Python 2.7
-  2  OpenCV 3.4.0
-  3  matplotlib 2.0.0
-  4  skimage 0.12.3
-  5  imutils 0.4.6
-  6  numpy 1.14.2
-  7  PIL 4.0.0
+  1) Python 2.7.
+  2)  OpenCV 3.4.0.
+  3)  matplotlib 2.0.0.
+  4)  skimage 0.12.3.
+  5)  imutils 0.4.6.
+  6)  numpy 1.14.2.
+  7)  PIL 4.0.0.
 
 Note:
 Convert the video into frames. Uploaded few frames of the whole video.
